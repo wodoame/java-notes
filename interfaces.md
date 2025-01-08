@@ -168,3 +168,5 @@ public class Main {
 | Constructor          | Not allowed.                           | Allowed.                             |
 
 ---
+
+[Interfaces in Java - GeeksforGeeks](https://www.geeksforgeeks.org/interfaces-in-java/)
